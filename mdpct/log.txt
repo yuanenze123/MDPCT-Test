@@ -1,0 +1,16 @@
+[22:27:16.353] Namespace(base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='MDPCT', gpu='0', labeled_bs=2, labelnum=8, lamda=0.5, max_iteration=12000, max_samples=80, model='mdpct', root_path='./data/LA', seed=1337, temperature=0.1)
+[22:27:19.875] 4 itertations per epoch
+[22:27:25.511] iteration 1 : loss : 1.164558, loss_d: 2.314182, loss_cosist: 1.108228
+[22:27:29.144] iteration 2 : loss : 1.128560, loss_d: 2.243000, loss_cosist: 1.047836
+[22:27:32.986] iteration 3 : loss : 1.183010, loss_d: 2.351090, loss_cosist: 1.107869
+[22:27:37.013] iteration 4 : loss : 1.111601, loss_d: 2.208861, loss_cosist: 1.064213
+[22:27:41.353] iteration 5 : loss : 1.120859, loss_d: 2.228483, loss_cosist: 0.982156
+[22:27:44.604] iteration 6 : loss : 1.070033, loss_d: 2.126231, loss_cosist: 1.026660
+[22:27:48.115] iteration 7 : loss : 1.068528, loss_d: 2.125332, loss_cosist: 0.870038
+[22:27:51.375] iteration 8 : loss : 1.161992, loss_d: 2.311234, loss_cosist: 0.946120
+[22:27:56.397] iteration 9 : loss : 1.076073, loss_d: 2.141179, loss_cosist: 0.813917
+[22:27:59.899] iteration 10 : loss : 1.047821, loss_d: 2.084862, loss_cosist: 0.799954
+[22:28:03.275] iteration 11 : loss : 1.047299, loss_d: 2.084062, loss_cosist: 0.781800
+[22:28:07.226] iteration 12 : loss : 1.024474, loss_d: 2.039712, loss_cosist: 0.685306
+[22:28:12.239] iteration 13 : loss : 1.161647, loss_d: 2.313960, loss_cosist: 0.692709
+[22:28:15.976] iteration 14 : loss : 1.012200, loss_d: 2.015403, loss_cosist: 0.667585
