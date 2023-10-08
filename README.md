@@ -1,2 +1,2 @@
 # MPC-Net
-This the test part for my paper Multidimensional perturbed consistency learning for semi-supervised medical image segmentation
+This is the model section of my paper titled "Multidimensional Perturbation Consistency Learning for Semi-Supervised Medical Image Segmentation." The remaining parts of the code will be open-sourced after the formal publication of the article.
