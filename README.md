@@ -1,2 +1,2 @@
-# MDPCT
-This the test part for my paper Semi-supervised Left Atrium Segmentation with Multi-dimensional Perturbed Consistency Training
+# MPC-Net
+This the test part for my paper Multidimensional perturbed consistency learning for semi-supervised medical image segmentation
